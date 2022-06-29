@@ -1,0 +1,39 @@
+[
+   
+    {
+      "id": 1,
+      "title": "Innovation",
+      "icon": "pe-7s-global",
+      "content": "We believe in our ability to adapt and tailoring solutions uniquely created for each individual client. We are committed in developing new and creative ways of solving problems."
+    },
+    {
+      "id": 2,
+      "title": "Quality",
+      "icon": "pe-7s-gleam",
+      "content": "We are committed to delivering a quality of product that will be unmatched elsewhere"
+  },
+  {
+    "id": 3,
+    "title": "Satisfaction",
+    "icon": "pe-7s-like",
+    "content": "We will go out of our way with our I.T. Management services to ensure that our client's needs are addressed by creating products, technology support services to specified directives."
+  },
+  {
+    "id": 4,
+    "title": "Ethics",
+    "icon": "pe-7s-magic-wand",
+    "content": "We believe honesty and integrity is key to delivering longterm success and helping to foster trust with our clients."
+  },
+  {
+    "id": 5,
+    "title": "Security",
+    "icon": "pe-7s-lock",
+    "content": "Highly secure process and solutions."
+  },
+  {
+    "id": 6,
+    "title": "Accountable",
+    "icon": "pe-7s-server",
+    "content": "We believe honesty and integrity is key to delivering longterm success and helping to foster trust with our clients."
+  }
+]

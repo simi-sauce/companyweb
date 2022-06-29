@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-rocket",
+    "txt": "PROJECTS COMPLETED",
+    "value": "102"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-smile",
+    "txt": "HAPPY CLIENTS",
+    "value": "56"
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-medal",
+    "txt": "AWARDS RECEIVED",
+    "value": "11"
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-cup",
+    "txt": "CUPS OF COFFEE",
+    "value": "5"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "image": "/img/portfolio/mas/01.jpg",
+    "tags": ["Design", "WordPress"],
+    "title": ["PAYSTREAM"],
+    "desc": ["PayStreams is an EFT transaction processing system which able to process both acquiring and issuing type of operations"],
+    "link": ["https://9food.ng/"],
+    "filterCategory": ["payment"]
+  },
+  {
+    "id": 2,
+    "image": "/img/portfolio/mas/02.jpg",
+    "tags": ["Design", "WordPress"],
+    "title": ["POPLAR"],
+    "desc": ["Poplar is looking to help bridge this gap by helping to connect drivers with car owners with an accredited system that will give candidates options that best suit their needs"],
+    "link": ["www.9food.ng"],
+    "filterCategory": ["web"]
+  },
+  {
+    "id": 3,
+    "image": "/img/portfolio/mas/03.jpg",
+    "tags": ["Design", "WordPress"],
+    "title": ["NANOBOX"],
+    "desc": ["NANOBOX is a USSD/SMS gateway, as well as a Wallet Management System. It could be deployed as USSD/SMS gateway and routing system for the management of digital account management such Mobile Money."],
+    "link": ["https://vas.interconnectnigeria.com/nanobox/"],
+    "filterCategory": ["aggregator"]
+  },
+  {
+    "id": 4,
+    "image": "/img/portfolio/mas/04.jpg",
+    "tags": ["Design", "WordPress"],
+    "title": ["9FOOD"],
+    "desc": ["9food is a food ordering platform that connects standard resturants to customers and serve them in record time with mouth watering dishes of their choice"],
+    "link": ["www.9food.ng"],
+    "filterCategory": ["food"]
+  },
+  {
+    "id": 5,
+    "image": "/img/portfolio/mas/05.jpg",
+    "tags": ["Design", "WordPress"],
+    "title": ["RELOAD"],
+    "desc": ["CardMaster is a flexible card management solution for issuing and managing local and international debit and prepaid cards.CardMaster handles all card authorisation processes as well as fraud prevention mechanism"],
+   
+    "link": ["www.9food.ng"],
+    "filterCategory": ["payment"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas/06.jpg",
+    "tags": ["Design", "WordPress"],
+    "title": ["POPLAR"],
+    "desc": ["Paystream is a payment platform that ensures your payment is successfull and authorized view our website here Paystream is a payment platform that ensures your payment is successfull and authorized view our website here"],
+    "link": ["www.9food.ng"],
+    "filterCategory": ["payment"]
+  }
+ ]
